@@ -4,4 +4,4 @@ Chapter one:
 
     BodyMassIndex: A simple program to calculate the body mass index.
     ToPigLatin: A program to change a text to a pig latin format
-    videoHameMachineCoupon: Calculates how many candybars or gumballs based on coupons owned by the owner.
+    videoGameMachineCoupon: Calculates how many candybars or gumballs based on coupons owned by the owner.
