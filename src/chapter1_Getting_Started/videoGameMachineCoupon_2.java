@@ -1,6 +1,6 @@
-package chapter1;
+package chapter1_Getting_Started;
 
-public class videoGameMachineCoupon {
+public class videoGameMachineCoupon_2 {
     // 10 coupons will get you 1 candybar
     // 3 coupons will get you 1 gumball
     public static final int COUPON_PER_CANDYBAR = 10;

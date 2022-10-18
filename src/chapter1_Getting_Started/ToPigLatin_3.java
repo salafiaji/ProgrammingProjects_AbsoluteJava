@@ -1,11 +1,11 @@
-package chapter1;
+package chapter1_Getting_Started;
 /**
 Pig latin format transfers the first letter of a word to the end of the word.
  Adds the "ay" to the end of the word.
  The program changes the first letter of the word to uppercase.
 */
 
-public class ToPigLatin {
+public class ToPigLatin_3 {
     public static final String VOCALLIC_SYLLABLE = "ay";
     public static void main(String[] args) {
         // Names to be converted

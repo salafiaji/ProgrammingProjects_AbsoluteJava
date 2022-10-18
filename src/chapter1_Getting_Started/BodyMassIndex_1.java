@@ -1,8 +1,8 @@
-package chapter1;
+package chapter1_Getting_Started;
 
 import static java.lang.Math.*;
 
-public class BodyMassIndex {
+public class BodyMassIndex_1 {
     public static void main(String[] args) {
         double weightInKilogram = 6;
         double heightInMeters = 2;
